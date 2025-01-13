@@ -1,0 +1,1 @@
+alert('This  is an alert that displays in the webpage before the rest of the page is loaded.');
